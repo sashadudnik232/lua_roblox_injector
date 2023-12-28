@@ -11,6 +11,7 @@ only open OPENER.BAT not the python file
 boom now its working
 
 **RUSSIAN VERSION!!!**
+
 не забудь отключить антивирус перед его буквальной установкой, чувак
 
 убедитесь, что у вас есть Python на вашем компьютере и pymem установлен в Python
